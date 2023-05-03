@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790643548363",
+    "firebase_url": "https://pizza-express-5a0c1.firebaseio.com",
+    "project_id": "pizza-express-5a0c1",
+    "storage_bucket": "pizza-express-5a0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790643548363:android:0ad90134392d02c5bc3b4e",
+        "android_client_info": {
+          "package_name": "com.example.pizzaexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790643548363-flau1crokulve6jvnc0u691aqms6i9qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXqAJiEa-h4cNr5_Aqzh8cHDcHfxlNPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790643548363-flau1crokulve6jvnc0u691aqms6i9qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

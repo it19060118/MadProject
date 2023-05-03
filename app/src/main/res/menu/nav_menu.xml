@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navOffers"
+        android:icon="@drawable/iconfinder_offers"
+        android:title="@string/nav_Offers"
+        />
+
+    <item
+        android:id="@+id/navOrderhis"
+        android:icon="@drawable/iconfinder_order"
+        android:title="@string/nav_orderHis"
+        />
+
+    <item
+        android:id="@+id/navFav"
+        android:icon="@drawable/iconfinder_fav"
+        android:title="@string/nav_Favourites"
+    />
+
+    <item
+        android:id="@+id/navContact"
+        android:icon="@drawable/iconfinder_cont"
+        android:title="@string/nav_contactUs"
+        />
+
+    <item
+        android:id="@+id/navFacebook"
+        android:icon="@drawable/iconfinder_like"
+        android:title="@string/nav_like_Facebook"
+        />
+
+
+    <item
+        android:id="@+id/navTerms"
+        android:icon="@drawable/iconfinder_terms"
+        android:title="@string/nav_TermsAnd_condition"
+        />
+
+    <item
+        android:id="@+id/navAbout"
+        android:icon="@drawable/iconfinder_about"
+        android:title="@string/nav_about"
+        />
+
+
+
+
+</menu>
