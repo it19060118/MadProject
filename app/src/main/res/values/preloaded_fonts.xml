@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+
+        <item>@font/aclonica</item>
+
+
+        <!--<item>@font/</item>
+        <item>@font/advent_pro</item>-->
+        <item>@font/advent_pro_medium</item>
+        <!--<item>@font/almendra_sc</item>-->
+        <item>@font/amaranth</item>
+        <item>@font/anton</item>
+        <!--<item>@font/arvo</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/gochi_hand</item>
+        <item>@font/londrina_outline</item>
+        <item>@font/stint_ultra_expanded</item>-->
+        <item>@font/stoke_light</item>
+        <!--<item>@font/the_girl_next_door</item>-->
+        <item>@font/ubuntu_light</item>
+        <!--<item>@font/ubuntu_mono</item>-->
+        <item>@font/underdog</item>
+        <!--<item>@font/vast_shadow</item>-->
+        <item>@font/walter_turncoat</item>
+        <item>@font/wendy_one</item>
+        <item>@font/work_sans_medium</item>
+        <!--<item>@font/yatra_one</item>
+        <item>@font/yeseva_one</item>-->
+
+        <item>@font/allerta_stencil</item>
+        <item>@font/lemon</item>
+        <item>@font/short_stack</item>
+
+
+    </array>
+</resources>
